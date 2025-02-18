@@ -58,5 +58,5 @@ The dataset contains 1,002 records with the following key attributes:
 Feel free to fork this repository, raise issues, or suggest improvements!
 
 ## 📧 Contact
-For any queries, reach out to me on GitHub or email at [Your Email/LinkedIn].
+For any queries, reach out to me on GitHub or email at aakarshshrivastava40@gmail.com
 
